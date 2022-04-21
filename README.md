@@ -1,2 +1,4 @@
 # projeto1guanabara
- Primeiro prjeto de site
+ Primeiro projeto de site
+ meu primeiro projeto antes da revisão.
+ 
